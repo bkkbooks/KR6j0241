@@ -1,0 +1,40 @@
+canonical_identifier: bkk:krp/KR6j0241/T/v1
+canonical_location: https://kanripo.org/bkk/KR6j0241/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 請觀世音菩薩消伏毒害陀羅尼呪經
+  identifiers:
+    krp: KR6j0241
+    cbeta: T20n1043
+    cbeta_old_id: T20n1043
+    authorityid: CA0002602
+    json_key: T1043
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T20/T20n1043.xml
+    old_id: T20n1043
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0241_000-T.yaml, hash: 'sha256:541a6598945d1a2a8d0186c0db0c75f2bc5987fb3483d3201d5f43a91920dfca'}
+  - {seq: 1, filename: KR6j0241_001-T.yaml, hash: 'sha256:dd0d999850e91ec2686d9dae32975b3ebff1aba180ee767df133566ba1b92b67'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6j0241_000-T.markers.yaml, hash: 'sha256:deac243daf1de850b4f27b3fa3b12d1927a33cb31fbe8b821d1cba8eee8d187d'}
+  - {seq: 1, role: markers, filename: assets/KR6j0241_001-T.markers.yaml, hash: 'sha256:2128c911a97c73aaa7d540a9ba9dae2a8cbb9d2e8ac50bf19c90b06258fe8f5a'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0241_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 5067
+  label: '請觀世音菩薩消伏毒害陀羅尼
+
+    呪經'
+  type: juan
+  level: 1
+hash: sha256:528abd03b358a5ca717855aa28a50079f3c115de61aaf37ee93302f2cf9a75e9

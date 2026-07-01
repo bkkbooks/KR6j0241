@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0241/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 請觀世音菩薩消伏毒害陀羅尼呪經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T20/T20n1043.xml
+    old_id: T20n1043
+hash: sha256:541a6598945d1a2a8d0186c0db0c75f2bc5987fb3483d3201d5f43a91920dfca
