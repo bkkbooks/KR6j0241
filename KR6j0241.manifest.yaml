@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6j0241/v1
 canonical_location: https://kanripo.org/bkk/KR6j0241/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 請觀世音菩薩消伏毒害陀羅尼呪經
   identifiers:
@@ -31,10 +31,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0241_000.yaml, hash: 'sha256:541a6598945d1a2a8d0186c0db0c75f2bc5987fb3483d3201d5f43a91920dfca'}
-  - {seq: 1, filename: KR6j0241_001.yaml, hash: 'sha256:dd0d999850e91ec2686d9dae32975b3ebff1aba180ee767df133566ba1b92b67'}
+  - {seq: 1, filename: KR6j0241_001.yaml, hash: 'sha256:5ad6327330697d33af4bac12b57a4b83ad285e36b714b3fbbcc903ac0972a55a'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6j0241_000.markers.yaml, hash: 'sha256:598f41fa86702959aca39ed366b0a9c714b74bf1801826a6dc90047f552c6ef4'}
-  - {seq: 1, role: markers, filename: assets/KR6j0241_001.markers.yaml, hash: 'sha256:07b4ad76d7625141f7da2d31e1b34b10a77b65e61c16bae2b52054e22eb84caf'}
+  - {seq: 1, role: markers, filename: assets/KR6j0241_001.markers.yaml, hash: 'sha256:64994974e8d946e20cd629b843fac9d9d71bcbd1d2144d5488946563cefb0bcc'}
 table_of_contents:
 - ref:
     seq: 1
@@ -48,4 +48,7 @@ table_of_contents:
     呪經'
   type: juan
   level: 1
-hash: sha256:e21c946f0dcd00387cf3ceb240cac00e5f63ba0953845f8c2bdf205579289108
+hash: sha256:d8652be1a1a4b59dcff3eaa77f644d2971c7281bdf313e6ea1a69761a5be352b
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
